@@ -1,4 +1,7 @@
+resources
 node_modules
 dist
 .env
 .next
+dump.rdb
+\.DS_Store
